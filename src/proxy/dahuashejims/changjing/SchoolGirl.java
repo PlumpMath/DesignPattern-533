@@ -1,4 +1,4 @@
-package proxy.dahuashejims;
+package proxy.dahuashejims.changjing;
 
 public class SchoolGirl {
 	private String name;

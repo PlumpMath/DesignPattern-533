@@ -1,4 +1,4 @@
-package proxy.dahuashejims;
+package proxy.dahuashejims.changjing;
 
 /**
  * 真正的追求者类
